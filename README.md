@@ -10,6 +10,6 @@ To Run: node server.js
 
 Authored By: Melanie Cisler
 
-Heroku: 
+Heroku: https://mighty-dusk-41061.herokuapp.com/ 
 
 Images: demo screen shots in "images" folder
